@@ -56,13 +56,21 @@ https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manife
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://02daznliga-dash-movistarplus.emisiondof6.com/dash/02daznliga.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png" group-title="Deportes",Dazn 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png" group-title="07. DAZN",DAZN 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"plSID1U17z5mRKQc8fjyXA", "kid":"vlXKICPWRtKQljem80Thcg" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#KODIPROP:inputstream.adaptive.license_key={82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0}
+#EXTVLCOPT:http-referer=https://www.dazn.com/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mplus1-dash-movistarplus.emisiondof6.com/dash/mplus1.isml/manifest.mpd
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd?p=web
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png" group-title="07. DAZN",DAZN 1 Movistar HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={be55ca2023d646d2909637a6f344e172:a654880f5535ef3e6644a41cf1f8f25c}
+#EXTVLCOPT:http-referer=https://www.dazn.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://01dazn-dash-movistarplus.emisiondof6.com/dash/01dazn.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845925428068392/unknown.png" group-title="Deportes",Dazn 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
