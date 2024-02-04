@@ -1,721 +1,1106 @@
-  #EXTM3U
-  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="01. M+ GENERALISTAS",TVE La1
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVE" group-title="Generalistas",LA 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={14fc0e3b249a43faa52fc69279e77cab:71c987df089eda046faf592931e84a5c}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="01. M+ GENERALISTAS", TVE La2
+http://stover-wp7.cdn.telefonica.com/4521/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/LA2" group-title="Generalistas",LA 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={843f979b605b4df3aeef459fea7c5287:208ee6c34633c93aa9abb3fdaa83818a}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/1200px-Antena_3_2017.svg.png" group-title="Entretenimiento",Antena 3
+http://stover-wp7.cdn.telefonica.com/4522/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/A3" group-title="Generalistas",Antena 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ti0Qlttk084JEg9LmEcvIg", "kid":"e+2VJ7YKRNyPu+mEVoJTpg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={7bed9527b60a44dc8fbbe984568253a6:b62d1096db64d3ce09120f4b98472f22}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://antena3-dash-movistarplus.emisiondof6.com/dash/antena3.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="Entretenimiento",Cuatro
+http://stover-wp7.cdn.telefonica.com/4523/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/C4" group-title="Generalistas",Cuatro
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IQAG+1/crlp9NgUd4xkRtA", "kid":"Jqe6OEGtQR6hOp+50UcOqQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={26a7ba3841ad411ea13a9fb9d1470ea9:210006fb5fdcae5a7d36051de31911b4}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cuatro-dash-movistarplus.emisiondof6.com/dash/cuatro.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/assets/images/movistar-plus/logo_cero.svg" group-title="01. M+ GENERALISTAS", Movistar+ #0
+http://stover-wp7.cdn.telefonica.com/4524/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/T5" group-title="Generalistas",Telecinco
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={cc6b7adcd1d74e37ad30a097328f28bf:b7e464cba8751a87f4005a0766f47c4a}
+#KODIPROP:inputstream.adaptive.license_key={809ed76f265641d9bc731351d6a06c40:97315744b3b70a74af746cdd61a299da}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845339160854648/unknown.png" group-title="Deportes",Dazn LaLiga
+http://stover-wp7.cdn.telefonica.com/4525/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SEXTA" group-title="Generalistas",La Sexta
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"B82CU/UypnU+9/IIuAtwaA", "kid":"aYzZucn6Q4GUypJ3/pjvdA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={81cd66b57f22429b9996220256374ed4:233f8d8ebcd73817b03cd90936c22303}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://01daznliga-dash-movistarplus.emisiondof6.com/dash/01daznliga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009896560970170488/unknown.png" group-title="Deportes",Dazn LaLiga 2
+http://stover-wp7.cdn.telefonica.com/4526/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS" group-title="Generalistas",Movistar Plus+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XZcS6JKvJxH6Fer9U5jcpA", "kid":"S1g9EmyxTFSS0ZovldG6Vg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={8468eebb95d8418ca85df6a2381fb64d:008748a6acbbb3491bf5dd49355d8207}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://02daznliga-dash-movistarplus.emisiondof6.com/dash/02daznliga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png" group-title="07. DAZN",DAZN 1 HD
+http://stover-wp7.cdn.telefonica.com/5240/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VAMOSD" group-title="Deportes",M+ Vamos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0}
-#EXTVLCOPT:http-referer=https://www.dazn.com/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd?p=web
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845893526208512/unknown.png" group-title="07. DAZN",DAZN 1 Movistar HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={be55ca2023d646d2909637a6f344e172:a654880f5535ef3e6644a41cf1f8f25c}
-#EXTVLCOPT:http-referer=https://www.dazn.com/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://01dazn-dash-movistarplus.emisiondof6.com/dash/01dazn.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009845925428068392/unknown.png" group-title="Deportes",Dazn 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"glq74TUh2yrqEZ4VMdiRyw", "kid":"ZF11ZIP1Q9O0M/iYmlcLOQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mplus2-dash-movistarplus.emisiondof6.com/dash/mplus2.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846014754181181/unknown.png" group-title="Deportes",Dazn 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zRVoFe8F3Mn8w2JufVLbeQ", "kid":"tGQYQrWCQ5Cn/o1Ox4EDHQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846070353866863/unknown.png" group-title="Deportes",Dazn 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jg6hKJE1NV8K71kma9AHDg", "kid":"Q2whZDkuRg2uQUIPU/nzlg" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="Deportes",Dazn F1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ktblz74C/vLgnidhfjuUAw", "kid":"QTs623jdRoSnhmgZeGuINg" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900374615932938/unknown.png?width=1440&height=505" group-title="Deportes",Movistar La Liga TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7nmEzGmjFSwxJZ+uFr+Www", "kid":"JV+HkVcUTOqSObPIPf9Rgg" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009910941485387776/image-removebg-preview_1.png" group-title="Deportes",Movistar La Liga TV 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"z+IEoRRrvdvVSz3BhIwb/g", "kid":"VrRGCFRXQGW0gTvJlxxReQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009898444644687994/unknown.png?width=1440&height=540" group-title="Deportes",Movistar Liga de Campeones
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZGG01YZq3ZJLbK3Cz1nOhA", "kid":"DTWpM6gMSLyY8XkG7oOlbQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899147056381953/unknown.png" group-title="Deportes",Movistar Liga de Campeones 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"c+/IzunTl+t2i94bs74GmA", "kid":"P31uAk9dSkO7b7SZgmQnAA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899164253040721/unknown.png" group-title="Deportes",Movistar Liga de Campeones 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IaPc+g3Y1ziBcay63bJwNw", "kid":"Y7/8clj5TDu8S8eTrfdwdQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://03campeones-dash-movistarplus.emisiondof6.com/dash/03campeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899176915636254/unknown.png" group-title="Deportes",Movistar Liga de Campeones 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GyJwBdTD79FIeAKWv011/g", "kid":"aM230crWSXelq9lKIUs+MQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://04campeones-dash-movistarplus.emisiondof6.com/dash/04campeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899193395060856/unknown.png" group-title="Deportes",Movistar Liga de Campeones 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dYubJzsXyalAdBCrA3gOsw", "kid":"Aup9/nLQSeicj44dea6/uA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://05campeones-dash-movistarplus.emisiondof6.com/dash/05campeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_6.png" group-title="Deportes",Movistar Liga de Campeones 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MM1FrWSjddvAq+cpqvTtCQ", "kid":"qIBoG/dfRVKUrTKxF3sdUA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://06campeones-dash-movistarplus.emisiondof6.com/dash/06campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_7.png" group-title="Deportes",Movistar Liga de Campeones 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6lCy+57dMY64jGQPmNDEeA", "kid":"JRB5Tp+sRxm6X9z9QLsr2A" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://07campeones-dash-movistarplus.emisiondof6.com/dash/07campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_8.png" group-title="Deportes",Movistar Liga de Campeones 8
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kJNcLxu0tgjicVfq7Z4w3w", "kid":"sL9MC/9tTqmtXqcqbU3J7g" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://08campeones-dash-movistarplus.emisiondof6.com/dash/08campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=b65ff5&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc9.png" group-title="Deportes",Movistar Liga de Campeones 9
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1RLCKR6mKLEu+eIiq/Ot+w", "kid":"Lh79oSpsTOGg5U1NvUWv/A" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://09campeones-dash-movistarplus.emisiondof6.com/dash/09campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=3c2c9b&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc10.png" group-title="Deportes",Movistar Liga de Campeones 10
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fqc5BT8GibM3pQXRfpszug", "kid":"3bD2FeAnTwSfsMzIuuk/Ow" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://10campeones-dash-movistarplus.emisiondof6.com/dash/10campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=509395&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc11.png" group-title="Deportes",Movistar Liga de Campeones 11
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ig6msudl9U4o+9R0RQSWWQ", "kid":"3iJCjNAsQnGX4q/KYQUWFQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://11campeones-dash-movistarplus.emisiondof6.com/dash/11campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=2bd606&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc12.png" group-title="Deportes",Movistar Liga de Campeones 12
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VM5hllvLZmUsqH0fSo8tjA", "kid":"o+JywRQ6TGeBHMSeeiQI4g" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://12campeones-dash-movistarplus.emisiondof6.com/dash/12campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=94d134&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc13.png" group-title="Deportes",Movistar Liga de Campeones 13
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LFBw374S84efBXfE6rE+Vg", "kid":"QIgb6o0nTZSOEoBr/w1LHg" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://13campeones-dash-movistarplus.emisiondof6.com/dash/13campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900738400489502/unknown.png" group-title="Deportes",Movistar Deportes
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZG/TT4kKXNtlW/mpevBtRw", "kid":"8Yw5tw+BRtmnnp3AwylGTQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mdeportes-dash-movistarplus.emisiondof6.com/dash/mdeportes.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=5c2588&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem2.png" group-title="Deportes",Movistar Deportes 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ukZhCfFC4q1N9gY3mo4qoA", "kid":"lQ6iPb46T96HVo4h3l21Zw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://2multidep-dash-movistarplus.emisiondof6.com/dash/2multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ff9e95&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem3.png" group-title="Deportes",Movistar Deportes 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K2I2pe3CiUqXLAeRky87Tg", "kid":"E3cLuRR4SA2IBajYAKAB+Q" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://3multidep-dash-movistarplus.emisiondof6.com/dash/3multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=f897b7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem4.png" group-title="Deportes",Movistar Deportes 4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MfSMMufCBOCA89ixqdXRfw", "kid":"872x5bo4TPqGt0MdW3avCg" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://4multidep-dash-movistarplus.emisiondof6.com/dash/4multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=5153c2&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem5.png" group-title="Deportes",Movistar Deportes 5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2uadRxcb8SRyIKHqHpc4Xg", "kid":"mqRVQPmkSpeC7V0J7K8l+Q" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://5multidep-dash-movistarplus.emisiondof6.com/dash/5multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cdf512&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem6.png" group-title="Deportes",Movistar Deportes 6
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Hy2vNO7ZtmfnAs4Wuuzgxw", "kid":"L+HrKGZ+T8OW8VMvOr1qNw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://o.remove.bg/downloads/96d72bbf-90d4-41f5-9b21-03f2e83aee79/image-removebg-preview.png" group-title="Deportes",Movistar Deportes 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IYkjLIcDI+Be7gyEvwIIKg", "kid":"C0YDabqiRxmyvc/ApL2Xig" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://7multidep-dash-movistarplus.emisiondof6.com/dash/7multidepor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009901775194689618/unknown.png" group-title="Deportes",M+ #Vamos
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/wjQaYOvVi2k8X2tqGYdDg", "kid":"t1vS7XqCQEOkj9mf8WoEEQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009901694655680613/unknown.png" group-title="Entretenimiento",M+ #0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"t+Rky6h1Gof0AFoHZvR8Sg", "kid":"zGt63NHXTjetMKCXMo8ovw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={77b7e5e8b6354bf8925af0ddd24afebd:635ed494d990466029b9681c7d981143}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009902953043341423/unknown.png?width=1036&height=701" group-title="Deportes",Movistar Golf
+http://stover-wp7.cdn.telefonica.com/4767/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CANSUR" group-title="Autonómicos",Canal Sur
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XZWxWj6CHXM9CaqC+qz72w", "kid":"/5+WsPdkQh+4Tfnmur5F6A" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={a1f2b5e88ce342f698cceef47c118e9b:3840185e2c4823137a5cdd246068439a}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701" group-title="Deportes",LaLiga Smartbank TV
+http://stover-wp7.cdn.telefonica.com/4980/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TV3CAT" group-title="Autonómicos",TV3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"a4tmeIcMFlJ6iKoGD1Meug", "kid":"V8X3R2ZBSOCJyDeimdQ6Eg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={8cf1d0c4d3fb4155812004fe79db1de4:a85875f6f69531ad920a2f576cba44c6}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://msegdiv-dash-movistarplus.emisiondof6.com/dash/msegdiv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701" group-title="Deportes",LaLiga Smartbank TV M2
+http://stover-wp7.cdn.telefonica.com/4982/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVGAL" group-title="Autonómicos",TVG -TV Galicia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zRLXETXkU2WuOuE9JGylQA", "kid":"XBrPtfJgQAaiqHPoSqRq1Q" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={5756b6c51b12406e97f661e250109efa:de624a16c7af2f51e19fe1c093c5b333}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://2segdiv-dash-movistarplus.emisiondof6.com/dash/2segdiv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009903520251646003/unknown.png?width=659&height=701" group-title="Deportes",LaLiga Smartbank TV M3
+http://stover-wp7.cdn.telefonica.com/4983/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMAD" group-title="Autonómicos",Telemadrid
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YD6ZoKTH90x7P6XWVtutwA", "kid":"IhEn7C09QHeEKE/ZHSo3mw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={45f2b2fee13b46f587457e118a237b52:41fe236d8159b95c85028fcdf5b56f3a}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://3segdiv-dash-movistarplus.emisiondof6.com/dash/3segdiv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="Deportes",Teledeporte
+http://stover-wp7.cdn.telefonica.com/4981/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB1" group-title="Autonómicos",ETB 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IPV+2CkX2VONAZIxTmHKew", "kid":"gvzn5Uq6S6Wgi/SjwqvHRA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={90010ddd0f874788967b18b48e53bbf7:25518651c222ae0174b5c8bc69894ef5}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009904852953997463/unknown.png" group-title="Deportes",GOL
+http://stover-wp7.cdn.telefonica.com/5074/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NAVA" group-title="Varios",Navarra TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VzWj92fIRLL/QSjXeIN5pA", "kid":"giq3OeAgT2uG8N2oUnUrfQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={56ae24e38632469caadfaf106fc418b0:529efffb64a8762eab2cc3eb74a03ba0}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="Deportes",Eurosport 1
+http://stover-wp7.cdn.telefonica.com/5210/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/IB3" group-title="Autonómicos",IB3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"82zUEGHuh0EbQduew62Hlg", "kid":"MyGLUh8ORHqTWtyZFVTGaw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={809a0f934cb04736b99c4b7a66e56b1c:077caf60be49961b8b981633f76dd83e}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://eurosport1-dash-movistarplus.emisiondof6.com/dash/eurosport1.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="Deportes",Eurosport 2
+http://stover-wp7.cdn.telefonica.com/5091/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGTV" group-title="Autonómicos",Aragón TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZkRsyba5xpQ8awn6vvV78Q", "kid":"Fv5a55RrQZeyQRyf/2HSKA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={c8dc875097e04040905419976707ec3e:03dea7dcfc0fdac68844e24b554a999a}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://eurosport2-dash-movistarplus.emisiondof6.com/dash/eurosport2.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/2195px-Logo_TVE-2.svg.png" group-title="Entretenimiento",La 2
+http://stover-wp7.cdn.telefonica.com/5090/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CANAR" group-title="Autonómicos",TV Canaria
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"II7mw0YzyTqpq7P9qoOBig", "kid":"hD+Xm2BbTfOu70Wf6nxShw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={b099922ddd8e4c9bbfdf65d7c3ee7398:412aaec14d0375feffaf85b3f6d3bbc4}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/telecinco_logo_500_-1_c0eb.png" group-title="Entretenimiento",Telecinco
+http://stover-wp7.cdn.telefonica.com/5089/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CASMAN" group-title="Varios",Castilla la Mancha TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lzFXRLO3CnSvdGzdYaKZ2g", "kid":"gJ7XbyZWQdm8cxNR1qBsQA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={78714c2c68c04472b2e311019edc6a93:7aff100e2added9125c4a426626bcd66}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995468797387485194/1017799597806076045/unknown.png?width=488&height=701" group-title="Entretenimiento",La Sexta
+http://stover-wp7.cdn.telefonica.com/5265/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CYLTV" group-title="Varios",La 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Iz+NjrzXOBewPNkJNsIjAw", "kid":"gc1mtX8iQpuZliICVjdO1A" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={c9279b98dba74f1bad984be2ba4c7188:a7882af76fa4b9030b06b7df0c28a42e}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009901859567317142/unknown.png" group-title="Entretenimiento",M+ Ellas #V
+http://stover-wp7.cdn.telefonica.com/5266/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/APUNT" group-title="Varios",À Punt
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ort/uBBtqJgl2rV/0cLiTg", "kid":"vEV9E+g1Tjuj/kZ9/lMV7Q" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={3da699dd90ca4ed5b592dc1a294812ad:bb436703dea1abe660c00967657a35d3}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://ellasv-dash-movistarplus.emisiondof6.com/dash/ellasv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine y Series",Movistar Estrenos
+http://stover-wp7.cdn.telefonica.com/5088/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MV1" group-title="Cine",M+ Cine
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yNPSclyn+yOwZUgwqjIvKg", "kid":"n7HwY40/Suyjejx6avL+9g" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={9fb1f0638d3f4aeca37a3c7a6af2fef6:c8d3d2725ca7fb23b0654830aa322f2a}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://estrenos-dash-movistarplus.emisiondof6.com/dash/estrenos.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/1024px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine y Series",Movistar Estrenos 2
+http://stover-wp7.cdn.telefonica.com/4501/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MV2" group-title="Series",M+ Series
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nHcrIRfnqjlbaeDooSAIGQ", "kid":"gPPPlJMKS9+exqpy6UfEyg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={09f31fd3fc584029b310e8e4891e194c:7aed71dceea44af72d944c3b57b009ae}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mestreno2-dash-movistarplus.emisiondof6.com/dash/mestreno2.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://o.remove.bg/downloads/79f7d4d3-f071-466b-8ac0-9f5d767613f5/image-removebg-preview.png" group-title="Cine y Series",Movistar Festival de San Sebastián
+http://stover-wp7.cdn.telefonica.com/4527/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MORIG" group-title="Series",M+ Originales
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"T0RVhmTj78GBG3zoi+tZeg", "kid":"4+CwRxYwSX64H8F/OaUiGA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={13075cef94e24ca29b4ef5614a1a1192:93488c3497a7c68486187db56efaba49}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/640px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine y Series",Movistar Clásicos
+http://stover-wp7.cdn.telefonica.com/5259/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MVCIVA" group-title="Cine",M+Los Goya
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7JxdGlQ1zPRyMRBefTHAug", "kid":"MWf1sdypS9OUZbOopClQaQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={e3e0b0471630497eb81fc17f39a52218:4f44558664e3efc1811b7ce88beb597a}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/800px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine y Series",Movistar Acción
+http://stover-wp7.cdn.telefonica.com/4955/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MDOC" group-title="Documentales",M+ Documentales
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZJQDbUJIgd4owKfJ86Ghmg", "kid":"la901ftZT9WLhWptdDz3fw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={a0e8ad05747040ca9887479536898d0a:f0bce7c3a14428b9e2364612e3822a6e}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Comedia_por_Movistar_Plus%2B_2022_logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine y Series",Movistar Comedia
+http://stover-wp7.cdn.telefonica.com/5245/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MONFIR" group-title="Música",M+ Música
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"FLvYGsC44wzcHXtmRedXmg", "kid":"7L3jQA9DTROM+s4CqKt8qw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={c54300bb047b4c3e9b7542ff8b766cc7:587db84268065340af7ffa24b2184997}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine y Series",Movistar Drama
+http://stover-wp7.cdn.telefonica.com/4989/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/RESIST" group-title="Estilo de vida",La Resistencia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZbKflv8HfUV2ZU7FvgBs+Q", "kid":"4OhQDGgYTOOPQpUkXtMc/g" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={173d991915f24a11b67acd0c75914370:4ef8245f720013854f096cfffd8e1028}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1280px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine y Series",Movistar Cine Ñ
+http://stover-wp7.cdn.telefonica.com/5032/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MCLAS" group-title="Cine",M+ Clásicos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZbKflv8HfUV2ZU7FvgBs+Q", "kid":"4OhQDGgYTOOPQpUkXtMc/g" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={3167f5b1dca94bd39465b3a8a4295069:ec9c5d1a5435ccf47231105e7d31c0ba}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/640px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Cine y Series",Movistar Fest
+http://stover-wp7.cdn.telefonica.com/4999/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPACCI" group-title="Cine",M+ Acción
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WH24QmgGU0Cvf/okshhJlw", "kid":"xUMAuwR7TD6bdUL/i3Zsxw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={95af74d5fb594fd58b856a6d743cf77f:6494036d424881de28c0a7c9f3a1a19a}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mfest-dash-movistarplus.emisiondof6.com/dash/mfest.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/1001938748663152672/1028033444837589033/unknown.png" group-title="Deportes",Horse TV
+http://stover-wp7.cdn.telefonica.com/4542/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOME" group-title="Cine",M+ Comedia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YVUSv7YZz4/yDb/3YAxeHw", "kid":"hGuftSYqR9WU7/g7iPVzYQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ecbde3400f434d138cface02a8ab7cab:14bbd81ac0b8e30cdc1d7b6645e7579a}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://horsetv-dash-movistarplus.emisiondof6.com/dash/horsetv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134" group-title="Deportes",Nautical Channel
+http://stover-wp7.cdn.telefonica.com/4573/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPCOLE" group-title="Cine",M+ Drama
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GeqGfP4vZmgEBTatKyM/IA", "kid":"nJamp80eRemJqhPonahA+w" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={e0e8500c68184ce38f4295245ed31cfe:65b29f96ff077d4576654ec5be006cf9}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://nauticalch-dash-movistarplus.emisiondof6.com/dash/nauticalch.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ubeat.png/640px-Ubeat.png" group-title="Deportes",Ubeat
+http://stover-wp7.cdn.telefonica.com/4576/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MSUSP" group-title="Cine",M+ Suspense
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"F3EdeIDmqdiWV5El0zQnvw", "kid":"ShPsGfOaR9qW1ndRHtwBFg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={f1402c9cff644e849da55cfb92f2467b:ff12458374e6f01c3b710631df20badb}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="09. M+ DOCUMENTALES", National Geographic
+http://stover-wp7.cdn.telefonica.com/5252/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MINDI" group-title="Cine",M+ Indie
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={e39d52703f1b4e9cb5f34a0eb56a3478:e839f4872457b1afcd55f388ceaeac7a}
+#KODIPROP:inputstream.adaptive.license_key={535ec7ec6ef6458e92bf953715a9b883:3bf44acc04bba5479207d28b28edef78}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://geonat-dash-movistarplus.emisiondof6.com/dash/geonat.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="09. M+ DOCUMENTALES", Nat Geo Wild
+http://stover-wp7.cdn.telefonica.com/5249/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCESP" group-title="Cine",M+ Cine Español
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={bf2c80cf84354ed9aa04d1fdc66b1757:085ae5451f91d892e8e9406dd951e968}
+#KODIPROP:inputstream.adaptive.license_key={aab0fcd931144e489fff46f80fa98098:d68713bd9786b2c2cf45b0478ee1e91f}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://wildnatgeo-dash-movistarplus.emisiondof6.com/dash/wildnatgeo.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="09. M+ DOCUMENTALES", Historia
+http://stover-wp7.cdn.telefonica.com/4502/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SKYSHO" group-title="Cine",SkyShowtime 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={8fd058ba1dab4425aed80f19ed28fa71:905d498800923549e1724d606e15da8f}
+#KODIPROP:inputstream.adaptive.license_key={28e3b72a512f4fb3872b932740287cc6:c7329f5b74207db162b947cfc76fed05}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="09. M+ DOCUMENTALES", Discovery
+http://stover-wp7.cdn.telefonica.com/5271/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TCM" group-title="Cine",TCM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={0e79a01f8f1f42588f79b3e07403ec84:3efefd3e15e5edba00be6673363b831c}
+#KODIPROP:inputstream.adaptive.license_key={d239eaec11d44dc49e8f74af0e7330a7:b791a8447d030d7855f9e231886cb973}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://discovery-dash-movistarplus.emisiondof6.com/dash/discoveryor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="09. M+ DOCUMENTALES", Odisea
+http://stover-wp7.cdn.telefonica.com/4603/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/HOLLYW" group-title="Cine",Hollywood
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={7cda51c80be546c79fc1b3279a1cbb70:f15bd75ce1f4ef04ed42df4a83a4de5a}
+#KODIPROP:inputstream.adaptive.license_key={860293580cdc418db2c1190b28b28889:dcc703e3cd2b9f67379c1165596cc598}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://odisea-dash-movistarplus.emisiondof6.com/dash/odiseaor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="09. M+ DOCUMENTALES", AMC Break
+http://stover-wp7.cdn.telefonica.com/4780/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/XTRM" group-title="Cine",XTRM
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={5d28d2ee92c34669ac4ed380cbc2f316:284a3bba9acabc6109282bd866d2b80c}
+#KODIPROP:inputstream.adaptive.license_key={d821dad4e62c4dc695e1ff7819a3656e:bf7747c3f1cd4ad94f461e83d5c5888c}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://blaze-dash-movistarplus.emisiondof6.com/dash/blaze.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="09. M+ DOCUMENTALES", AMC Crime
+http://stover-wp7.cdn.telefonica.com/5050/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SUNDAN" group-title="Cine",Sundance
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={50d9708d9d814d919a2af457060dc55e:0358f48f4a93b5f999bfc58699ea15ec}
+#KODIPROP:inputstream.adaptive.license_key={00985a2a9f724f07b7d1d433d52bd216:5edfd7675466f31b87157ee1f69d5f10}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://crimen-dash-movistarplus.emisiondof6.com/dash/crimenor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="10. M+ ESTILO DE VIDA", Divinity
+http://stover-wp7.cdn.telefonica.com/4579/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DARK" group-title="Cine",DARK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={c9552e0515b247779d2c204dc12f46b5:af2b942b509c264db4b9b5c9e2235c32}
+#KODIPROP:inputstream.adaptive.license_key={0baadc5a8a9f4d39808ff2dd3d369c7b:f70762238bb228c85b825459e7bed5a7}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://divinity-dash-movistarplus.emisiondof6.com/dash/divinityor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="10. M+ ESTILO DE VIDA", Nova
+http://stover-wp7.cdn.telefonica.com/4583/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SOMOS" group-title="Cine",Somos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={2ce8c3b4d19b432c94499ca91dc9d997:232a0f5356e0bb2672a3043e08f18ae8}
+#KODIPROP:inputstream.adaptive.license_key={de7667d3af3440bbb359a86f7aa2151b:4819c2c561a918c798958efb8828d3d5}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://nova-dash-movistarplus.emisiondof6.com/dash/novaor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="10. M+ ESTILO DE VIDA", Mega
+http://stover-wp7.cdn.telefonica.com/5051/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PARCH" group-title="Cine",Paramount Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={b48fd17bd87b4cc697c65866e7314ed6:eb61b9dd29ce08d77db11e325c06ef07}
+#KODIPROP:inputstream.adaptive.license_key={82de8500b55a4a6aa18a7d97b525c93f:f1beb39f5d8fcf996e93287096eb0d25}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mega-dash-movistarplus.emisiondof6.com/dash/megaor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="10. M+ ESTILO DE VIDA", BE MAD
+http://stover-wp7.cdn.telefonica.com/4586/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BEMAD" group-title="Estilo de vida",BE MAD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={f47176ff659b4dff9fa6c03febe3293b:d87db783c6e1d3627f98e0f6fbb2795e}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKUC.png" group-title="11. M+ INFANTILES", Nickelodeon Ukraine
+http://stover-wp7.cdn.telefonica.com/4560/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FOXGE" group-title="Series",Fox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={246d4d0401da47aa89d3fd84bf508b7c:dae27f69f2ad774ef6660f551af650cd}
+#KODIPROP:inputstream.adaptive.license_key={45e41639a0b9453f9b260cb9d0326369:f0358c680ffc46904007de461388df28}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://ucranianickjr-dash-movistarplus.emisiondof6.com/dash/ucranianickjr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="11. M+ INFANTILES", Baby TV
+http://stover-wp7.cdn.telefonica.com/4528/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/AXN" group-title="Series",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={2a25461a05df426e8a5948844e773ef0:d5fdfe91ab048311db22684428ca5dc7}
+#KODIPROP:inputstream.adaptive.license_key={5c67c13bc3c442b092e4906cb01b344f:d2fdc0f0dacbe6180a479526657d7a6f}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://babytv-dash-movistarplus.emisiondof6.com/dash/babytvor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="11. M+ INFANTILES", Disney Junior
+http://stover-wp7.cdn.telefonica.com/4529/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TNT" group-title="Cine",Warner TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={c6a165dec8d64c1b9e7c4f13641384db:0046d12ca01ab10af602dc401bd70fab}
+#KODIPROP:inputstream.adaptive.license_key={cdcc9285b9b04270977a9278bd6b1168:fdc92cc2ba77e0c106f98a3143fa4f57}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://jrdisney-dash-movistarplus.emisiondof6.com/dash/jrdisney.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="11. M+ INFANTILES", En Familia
+http://stover-wp7.cdn.telefonica.com/4530/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PCM" group-title="Series",Comedy Central
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={18a265a968c34a0a87218ac68579cc78:77d5e68a667e5180c86cfe9e494bd54d}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4531/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CL13" group-title="Series",Calle 13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={11d973f3e8d94bf49744dfe70c8586a7:897248d27630e5b35b37e5aa3a600c1d}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4532/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/COSMO" group-title="Series",COSMO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={440d251fb0a742c6ba118e1dd0d86ffe:7c9c577423ae0ee2bc672f10b0089969}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4533/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SCI-FI" group-title="Series",SYFY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={0b5227c110fc4af5b506e6a6c7791da1:fce863b6daf0a9190db85ecede2481f6}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4536/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/AMC" group-title="Series",AMC
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={4731f1896bb14771afbd1c71c22f2aa2:b1fa646ebe218d19658b3e313a498593}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4520/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SET" group-title="Cine",AXN Movies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={3627b1398b714e0ba2d950ac238ae72d:35028469e77902718cff04c81ae7bea0}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4535/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/13TV" group-title="Series",13 TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={612ead57a01f4fea87af498231ac2db1:820954f2df52d171644b435af0563375}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5094/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ENERGY" group-title="Estilo de vida",Energy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={a14093af411c40d9924ee0d86bbc18b1:b9b402ff108bf3e4a4deebac31c435e5}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4540/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FDFIC" group-title="Series",Factoría de Ficción
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={e247fe1683ef4a28817d1c9c1fe458fc:1e74cdc3ccc822e19c141820332ddcd4}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4537/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NEOX" group-title="Series",Neox
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={70ba4bdde3e04d659e8cf18c076153dc:0028773ef7f5d911fbea36d3163b3601}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4538/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ATRESS" group-title="Series",Atreseries
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={14baf540c86b48e4954459ba0e76dea7:2bb673f117ec9f14837b26bbe61aace6}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4539/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG2" group-title="Fútbol",M+ Copa del Rey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={f0efb2353a724567b20c9cf99d8960d0:da8df9698f81cf4972b40115ea8f3716}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4834/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGA" group-title="Fútbol",M+ LALIGA TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ec2846d2c0e04531be5100e0c4c7decd:f28fd5016a9117604330220c0ad086aa}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4882/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNLI" group-title="Fútbol",DAZN LALIGA
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={d026b5b9a57f46ec8d080f792ecbc1c0:dc02a224dce8b8e7a2aa25b2793079c0}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5119/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS" group-title="Fútbol",LALIGA TV HYPERMOTION
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={3424056a1fa446ef9f91b39c58d52231:57893b8e1af56f70a6c787412d8c826b}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5124/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIG1" group-title="Fútbol",M+ LALIGA TV 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={8bb75a997650482fbf730639175a4d03:3d872a5e78e7138e921e12c386d025a2}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4833/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZNL2" group-title="Fútbol",DAZN LALIGA 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={5c2338f9f7224f659b6650930c966888:aefa97690fdea5e660ffc93e8a9e08c2}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5120/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS2" group-title="Fútbol",LALIGA TV HYPERMOTION 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={2fc77c5e033f45ca874fdc0f28e79200:31052a3d0c5cd70934e5139ae5790235}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5127/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAPIO" group-title="Fútbol",M+ Liga de Campeones
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={c067cb8d7357499f94599a607b85f9d3:da6ae5a046a56ee684fa8359dbe0c1fd}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4594/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP1" group-title="Fútbol",M+ Liga de Campeones 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={c0890637e2af46d497b5620cc88919ab:d321758640c54446306c6285ac0607f0}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4581/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP2" group-title="Fútbol",M+ Liga de Campeones 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={9878583b43714da68b4c1bbfc7642ee3:777e2a87439c1b28c9015fca5bffa264}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4564/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CPDEP" group-title="Deportes",M+ Deportes
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={f18c39b70f8146d9a79e9dc0c329464d:646fd34f890a5cdb655bf9a97af06d47}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4592/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARTHUR" group-title="Deportes",M+ Deportes 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={950ea23dbe3a4fde87568e21de5db567:ba466109f142e2ad4df606379a8e2aa0}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4585/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP2" group-title="Deportes",M+ Deportes 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={13770bb91478480d8805a8d800a001f9:2b6236a5edc2894a972c0791932f3b4e}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4556/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MELLAV" group-title="Deportes",M+ Ellas V
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={bc457d13e8354e3ba3fe467dfe5315ed:3abb7fb8106da89825dab57fd1c2e24e}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5093/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GOLF%2B" group-title="Deportes",M+ Golf
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ff9f96b0f764421fb84df9e6babe45e8:5d95b15a3e821d733d09aa82faacfbdb}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4584/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GOLF2" group-title="Deportes",M+ Golf 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={680e0c467e784762b3ee3902cfd0a3ff:51870e52002a839d6fe0761b76f34716}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5196/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MVF1" group-title="Deportes",DAZN F1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={413b3adb78dd4684a7866819786b8836:92d6e5cfbe02fef2e09e27617e3b9403}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4608/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M1SD" group-title="Deportes",DAZN 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={be55ca2023d646d2909637a6f344e172:a654880f5535ef3e6644a41cf1f8f25c}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4949/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/M2SD" group-title="Deportes",DAZN 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={645d756483f543d3b433f8989a570b39:825abbe13521db2aea119e1531d891cb}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4950/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP" group-title="Deportes",Eurosport 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={33218b521f0e447a935adc991554c66b:f36cd41061ee87411b41db9ec3ad8796}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4605/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP2" group-title="Deportes",Eurosport 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={16fe5ae7946b4197b2411c9fff61d228:66446cc9b6b9c6943c6b09fabef57bf1}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4580/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/GOL" group-title="Deportes",GOL PLAY
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={822ab739e0204f6b86f0dda852752b7d:5735a3f767c844b2ff4128d7788379a4}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4577/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TDEP" group-title="Deportes",Teledeporte
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={82fce7e54aba4ba5a08bf4a3c2abc744:20f57ed82917d9538d0192314e61ca7b}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4504/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/REALM" group-title="Deportes",Real Madrid TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={c1a47794fbcc415693b765899460e639:6a55c23eebf1286d28d53eb94d640d78}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5198/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CAZPES" group-title="Deportes",Caza y Pesca
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={e08814a33e4842d29cb6d4cf97af6f36:4d40de76240002f6f0dfbccd5e145476}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4606/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/UBEAT" group-title="Deportes",Ubeat
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={4a13ec19f39a47da96d677511edc0116:17711d7880e6a9d896579125d33427bf}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4886/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGEO" group-title="Documentales",National Geographic
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={e39d52703f1b4e9cb5f34a0eb56a3478:e839f4872457b1afcd55f388ceaeac7a}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4604/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NATGW" group-title="Documentales",Nat Geo Wild
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={bf2c80cf84354ed9aa04d1fdc66b1757:085ae5451f91d892e8e9406dd951e968}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4610/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/HIST" group-title="Documentales",Historia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={8fd058ba1dab4425aed80f19ed28fa71:905d498800923549e1724d606e15da8f}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4543/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCR" group-title="Documentales",Discovery
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={0e79a01f8f1f42588f79b3e07403ec84:3efefd3e15e5edba00be6673363b831c}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4545/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ODISEA" group-title="Documentales",Odisea
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={7cda51c80be546c79fc1b3279a1cbb70:f15bd75ce1f4ef04ed42df4a83a4de5a}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4547/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BIOGRA" group-title="Documentales",AMC Break
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={5d28d2ee92c34669ac4ed380cbc2f316:284a3bba9acabc6109282bd866d2b80c}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5097/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCRMAX" group-title="Generalistas",DMAX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={a15b28be7e84448aaff32156b1a101f2:99db6ae933c10addacc545151a08144d}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5244/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CYM" group-title="Documentales",AMC Crime
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={50d9708d9d814d919a2af457060dc55e:0358f48f4a93b5f999bfc58699ea15ec}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4552/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BUENV" group-title="Estilo de vida",BuenViaje
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={6cfa89d8fa8c4ae39ff6bd74f23a9234:1bcbffdb91b5d91bd46c6cac1bb23950}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5049/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CACOC" group-title="Estilo de vida",Canal Cocina
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={4074ed3a5d3541d68b9a06a391c519ea:0215a508f3925cb98ab7be64f7e55aba}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4506/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DECASA" group-title="Estilo de vida",Canal Decasa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={0a7489f77bde4f62867a3bad923e5498:452f2f349202408abb0936c92bd20b76}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4602/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DKISS" group-title="Generalistas",DKISS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={31d3c8de4f46404d96855a84b3568ea1:72d1c888c7ccb4bb2bb10e61fd241a5b}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5246/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DIVINI" group-title="Estilo de vida",Divinity
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={c9552e0515b247779d2c204dc12f46b5:af2b942b509c264db4b9b5c9e2235c32}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4507/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NOVA" group-title="Estilo de vida",Nova
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={2ce8c3b4d19b432c94499ca91dc9d997:232a0f5356e0bb2672a3043e08f18ae8}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4601/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEGA" group-title="Estilo de vida",Mega
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={b48fd17bd87b4cc697c65866e7314ed6:eb61b9dd29ce08d77db11e325c06ef07}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4558/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TEN" group-title="Estilo de vida",Ten
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ac2bea70e42c491a86fb12b56b313b39:2e0777151699e8a9ffc0759e1d690316}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5253/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PANDA" group-title="Estilo de vida",Enfamilia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={5969b9b5d5094e95b285f6f10e47b85d:3bdd76952eb0339cc470f50e1067f5f7}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://panda-dash-movistarplus.emisiondof6.com/dash/panda.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="11. M+ INFANTILES", NICK JR
+http://stover-wp7.cdn.telefonica.com/4510/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BABY" group-title="Infantiles",Baby TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={2a25461a05df426e8a5948844e773ef0:d5fdfe91ab048311db22684428ca5dc7}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4508/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/PLAYDC" group-title="Infantiles",Disney Junior
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={c6a165dec8d64c1b9e7c4f13641384db:0046d12ca01ab10af602dc401bd70fab}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4509/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICKJR" group-title="Infantiles",NICK JR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={42679b6034b04d3b9f69543f4e2c98cb:85855ce37613d1a83846d4a535f3752d}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://jrnick-dash-movistarplus.emisiondof6.com/dash/jrnick.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="11. M+ INFANTILES", NICK JR
+http://stover-wp7.cdn.telefonica.com/4511/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NICK" group-title="Infantiles",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={162cdd5d692648ce8c1e6328d1c68ec7:1df5a6f6188dd9be7c86f05c9501e088}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://nickelodeon-dash-movistarplus.emisiondof6.com/dash/nickelodeon.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="11. M+ INFANTILES", Dreamworks
+http://stover-wp7.cdn.telefonica.com/4512/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DWSP" group-title="Infantiles",Dreamworks
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={4c069fd82dbe4ac98aa7479322c55f03:a7298938f60688f3575ab9b41da57707}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dreamworks-dash-movistarplus.emisiondof6.com/dash/dreamworks.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="11. M+ INFANTILES", Disney Channel
+http://stover-wp7.cdn.telefonica.com/4965/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DCH" group-title="Infantiles",Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={067527b8b0d9417eab5df8b2c44cce93:dcb33c1b9c6b8964650e08c33b909074}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://disneychannel-dash-movistarplus.emisiondof6.com/dash/disneychannel.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="11. M+ INFANTILES", Boing
+http://stover-wp7.cdn.telefonica.com/4599/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BOING" group-title="Infantiles",Boing
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={38132dfbd1eb40738d9a474f7e0de4e3:2460d0660fe5e678f2158253411a6f35}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="11. M+ INFANTILES", Clan TVE
+http://stover-wp7.cdn.telefonica.com/4563/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CLANTV" group-title="Infantiles",Clan TVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={e2c26542852c4333aec68e83844f3bb1:e6fe84029e6e2e0e2038cefe1b5daa85}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="12. M+ MUSICA", MTV
+http://stover-wp7.cdn.telefonica.com/4611/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MTV" group-title="Música",MTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={0c692de2478e4b778597781d0fce1435:1a1e4760aa222f762222a853e18726c7}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://mtv-dash-movistarplus.emisiondof6.com/dash/mtvor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="13. M+ INFORMACION", 24 Horas
+http://stover-wp7.cdn.telefonica.com/4499/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/VH1" group-title="Música",MTV 00s
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={f9bdeacdf1f04253afbadc6c018029c5:e66bb689e3b7eef63ae3476952a718de}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4567/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEZZO" group-title="Música",Mezzo
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={d0268ddf1676481bad3facdc1ba246c8:c0efffbc6dd83811a2b626ecdae6fc7f}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4571/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MEZZLI" group-title="Música",Mezzo Live
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={022d47265cf5437cb20f4df44760d82b:54c53b33b3cc6603f371ba901546a2ec}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4891/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CLASSD" group-title="Música",Classica
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={a94594a44f91419796d0011b465de529:3b97d54fd84a8aaef5fdf84140b31ba1}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4612/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/24H" group-title="Noticias",24 Horas
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={6e73d7c4f4b24a19929cb5e4bfd23524:80cc5ee67dfbdb57e3c3a4308173d48b}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://24horas-dash-movistarplus.emisiondof6.com/dash/24horasor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" group-title="14. M+ AUTONOMICOS", Canal Sur Andalucía
+http://stover-wp7.cdn.telefonica.com/4544/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/BBC" group-title="Noticias",BBC World
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ca46a26617cf4249868b9add6e64123d:124947113dd855fdd2029be348b9d79b}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5256/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CNN" group-title="Noticias",CNN Int
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={37a46881d0944afa8ea10942555a5267:74fd02872ff974f8f38a9ff3845eaa5b}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5254/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/FOXNWS" group-title="Noticias",Fox News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={d7a4ac8d75a047e1baea5a4453664325:5287f24cc620f6f187a7b93d31be80d4}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5197/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ENW" group-title="Noticias",Euronews
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={7f73028292d14b9082934b435e5587eb:16260268d1cd7e58592735c7110b1895}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5255/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/INTECO" group-title="Noticias",El Toro TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={0d43fb49639b4ac3a53251848bceef3c:4b70c8291cecaad4350882d1a64aea96}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4893/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/NEGOTV" group-title="Noticias",Negocios TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={fbb8fb3d49c04cb1afb773e19461b6de:273f6b64e7aae3232087743bcbbb7835}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4985/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ANTV" group-title="Autonómicos",Canal Sur Andalucía
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={23994c0ce4914a38a04e1edde8463d65:6958cd82ff263c2785d84af2d3a2a339}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://csur-dash-movistarplus.emisiondof6.com/dash/csuror.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTREM.png" group-title="14. M+ AUTONOMICOS", Canal Extremadura Sat
+http://stover-wp7.cdn.telefonica.com/4764/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVG" group-title="Autonómicos",TVG Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={dbb416e86940485fb2005ec77959e2d6:d4b65ecd39a17d2d21c18e970196b839}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4548/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/EXTREM" group-title="Autonómicos",Canal Extremadura Sat
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={6836ea7cd3a74287a89dbe6a67894b67:03438109843ce8e201852676aaca62bd}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://extremadura-dash-movistarplus.emisiondof6.com/dash/extremaduraor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVC.png" group-title="14. M+ AUTONOMICOS", TV3 Cat
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={3a6b47b2e2a24ecb8f9cdf15092c7ca1:9e6fe0f1ab493cb10d6bdf0f0677ffda}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tv3cat-dash-movistarplus.emisiondof6.com/dash/tv3cat.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB.png" group-title="14. M+ AUTONOMICOS", ETB Basque
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={2017c7c8882f415cb391baa122fd72e0:f5338d7f01e3084f797c468c334f96c3}
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://etb-dash-movistarplus.emisiondof6.com/dash/etbor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png" group-title="14. M+ AUTONOMICOS", Aragón TV
+http://stover-wp7.cdn.telefonica.com/4614/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ARAGON" group-title="Autonómicos",Aragón TV Int
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={a91300ef2736487ba77936760785000e:2212acc1fbdc52768104140a87aa4653}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://aragon-dash-movistarplus.emisiondof6.com/dash/aragonor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="14. M+ AUTONOMICOS", Telemadrid Int
+http://stover-wp7.cdn.telefonica.com/4615/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ETB" group-title="Autonómicos",EITB Basque
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={2017c7c8882f415cb391baa122fd72e0:f5338d7f01e3084f797c468c334f96c3}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4557/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TVC" group-title="Autonómicos",TV3 Cat
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={3a6b47b2e2a24ecb8f9cdf15092c7ca1:9e6fe0f1ab493cb10d6bdf0f0677ffda}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4555/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/TELMIN" group-title="Autonómicos",Telemadrid Int.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={591af0bf8ff84decbe1e2dbec063074f:e7f67c51aba494c9eed4a0865600e15c}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://inttelemadrid-dash-movistarplus.emisiondof6.com/dash/inttelemadrid.isml/manifest.mpd
+http://stover-wp7.cdn.telefonica.com/5092/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MPLUS2" group-title="Generalistas",Movistar Plus+ 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={4d4ed9f45b1640968a9569d48cb68d64:04d99b897cc16983950a5f4b0c72d698}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5264/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS3" group-title="Fútbol",LALIGA TV HYPERMOTION 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={8726ee7d09dc41a688ada5df49c08ea1:8ce090ab40e5af32015422775fb1bc5c}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5137/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP3" group-title="Fútbol",M+ Liga de Campeones 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={68cdb7d1cad64977a5abd94a214b3e31:1b227005d4c3efd148780296bf4d75fe}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4565/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP4" group-title="Fútbol",M+ Liga de Campeones 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={02ea7dfe72d049e89c8f8e1d79aebfb8:758b9b273b17c9a9407410ab03780eb3}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4568/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP5" group-title="Fútbol",M+ Liga de Campeones 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={a880681bf75f455294ad32b1177b1d50:30cd45ad64a375dbc0abe729aaf4ed09}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4570/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP6" group-title="Fútbol",M+ Liga de Campeones 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={2510794e9fac4719ba5fdcfd40bb2bd8:ea50b2fb9edd318eb88c640f98d0c478}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4572/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP7" group-title="Fútbol",M+ Liga de Campeones 8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={b0bf4c0bff6d4ea9ad5ea72a6d4dc9ee:90935c2f1bb4b608e27157eaed9e30df}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4574/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP8" group-title="Fútbol",M+ Liga de Campeones 9
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={2e1efda12a6c4ce1a0e54d4dbd45affc:d512c2291ea628b12ef9e222abf3adfb}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4578/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP9" group-title="Fútbol",M+ Liga de Campeones 10
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ddb0f615e0274f049fb0ccc8bae93f3b:16a739053f0689b337a505d17e9b33ba}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5003/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP10" group-title="Fútbol",M+ Liga de Campeones 11
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={de22428cd02c427197e2afca61051615:220ea6b2e765f54e28fbd47445049659}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5007/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP11" group-title="Fútbol",M+ Liga de Campeones 12
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={a3e272c1143a4c67811cc49e7a2408e2:54ce61965bcb66652ca87d1f4a8f2d8c}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5017/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAP12" group-title="Fútbol",M+ Liga de Campeones 13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={40881bea8d274d948e12806bff0d4b1e:2c5070dfbe12f3879f0577c4eab13e56}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5021/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP3" group-title="Deportes",M+ Deportes 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={f3bdb1e5ba384cfa86b7431d5b76af0a:31f48c32e7c204e080f3d8b1a9d5d17f}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4561/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/USOP11" group-title="Deportes",M+ Deportes 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={9aa45540f9a44a9782ed5d09ecaf25f9:dae69d47171bf1247220a1ea1e97385e}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4562/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MULTI8" group-title="Deportes",M+ Deportes 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={2fe1eb28667e4fc396f1532f3abd6a37:1f2daf34eed9b667e702ce16baece0c7}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4566/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MULTI6" group-title="Deportes",M+ Deportes 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={0b460369baa24719b2bdcfc0a4bd978a:2189232c870323e05eee0c84bf02082a}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4569/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MULTI9" group-title="Deportes",M+ Deportes 8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={767258fc8dcf40a1a6dcf957e635fbe4:fcfb6ecf33cc76009ef024a0ed643655}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4769/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN3" group-title="Deportes",DAZN 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={b4641842b5824390a7fe8d4ec781031d:cd156815ef05dcc9fcc3626e7d52db79}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4961/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/DAZN4" group-title="Deportes",DAZN 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={436c2164392e460dae41420f53f9f396:8e0ea1289135355f0aef59266bd0070e}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4962/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGUH" group-title="Fútbol",M+ LALIGA TV UHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={2e0bb7fb0aa441758a91e758bf30d829:e0b47b64161c8f96933d4e828b0e8a7e}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5077/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/CHAUHD" group-title="Fútbol",M+ Liga de Campeones UHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={691b095fbafe429180e34b75872b32ec:b5b3348c2e53eaf3981dccb8cb6e3fc8}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5078/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MF1UHD" group-title="Deportes",DAZN F1 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={1b76612737ad4d678376f6e46c8104a3:4b84e6a343843589e0ed63d4e3a8823e}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5079/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/ESP4K" group-title="Deportes",Eurosport 4K
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={d4e463de7a034c74b7a60e306a34764e:251fdefb595fb6b887a0700cc6a54c32}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5272/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/P1OTT" group-title="Varios",Pruebas 1_OTT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'224e6eef421751d9afd251ba62947361:397d917a2c4b4f735c7cd33d04e4baee'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5121/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/P2OTT" group-title="Varios",Pruebas 2_OTT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'8d54a588023d58ff87d7f8c0c0ee05a8:eaff24a8339217637df27097db6f3904'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4924/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/P3OTT" group-title="Varios",Pruebas 3_OTT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'4ea9fd3043fc53e488e90eb1cdaca0ab:4c32f9adb9641fc6ff42c2292841288d'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5052/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/P6OTT" group-title="Varios",Pruebas 6_OTT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'c03c1f5232275666820e4b345bb11a30:5cc2cc204898ebe39bd95afc7d80e5a5'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5055/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/P17OTT" group-title="Varios",Pruebas 17_OTT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'851dc3da21c25c3f8c15dc558fd06228:a9bb37ff4e779f9c135623b62ac4ae3d'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5145/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/P18OTT" group-title="Varios",Pruebas 18_OTT
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={'ed650d56e2da5a11994b54e9f221d6cf:1abda160707c4c6a814fc5695ba37024'}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5146/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/SKAM" group-title="Series",SKAM
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={202d009fa62451f3b161f061b7d735c0:9a1fd73156f8b8ae9da95b9d1f968d3e}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/4896/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
+#EXTINF:-1 tvg-id= tvg-name= tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpmos/MLIGS4" group-title="Fútbol",LALIGA TV HYPERMOTION 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={2fc77c5e033f45ca874fdc0f28e79200:31052a3d0c5cd70934e5139ae5790235}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+http://stover-wp7.cdn.telefonica.com/5217/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-02-04T21:14:41Z&end_time=2024-02-05T07:14:41Z
